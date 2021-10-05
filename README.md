@@ -90,34 +90,4 @@ Please post any questions as comments on the example's blog post, or on the [Okt
 
 Apache 2.0, see [LICENSE](LICENSE).
 
-
-
-
-
-
-# okta-app
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 [blog]: https://developer.okta.com/blog/2021/10/04/spring-boot-spa
